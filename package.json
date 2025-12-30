@@ -2,6 +2,7 @@
     "name": "notes-app-backend",
     "version": "1.0.0",
     "description": "Backend for Notes App with JWT auth",
+    "type": "commonjs",
     "main": "api/index.js",
     "scripts": {
         "start": "node server.js",
