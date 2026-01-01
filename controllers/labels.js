@@ -1,5 +1,5 @@
-const Label = require('../models/Label');
-const Note = require('../models/Note');
+const Label = require('../models/label.js');
+const Note = require('../models/note.js');
 
 // @desc    Get all labels for a user
 // @route   GET /api/labels
